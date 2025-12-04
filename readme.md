@@ -2,7 +2,7 @@
  * @Author: 无序熵增
  * @Date: 2025-11-10 17:08:58
  * @LastEditors: 无序熵增
- * @LastEditTime: 2025-12-04 22:09:12
+ * @LastEditTime: 2025-12-04 22:15:09
  * @Description: 
  * 
  * Copyright (c) 2025 by 无序熵增, All Rights Reserved. 
@@ -54,4 +54,5 @@ Both include custom commands to easily manage the Propeller chip's unique featur
 ### Memory Configuration
 - **Global ROM/RAM:** 32,768 bytes / 32,768 bytes
 - **Cog RAM:** 512 × 32 bits per core
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
