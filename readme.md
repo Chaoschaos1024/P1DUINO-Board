@@ -2,7 +2,7 @@
  * @Author: 无序熵增
  * @Date: 2025-11-10 17:08:58
  * @LastEditors: 无序熵增
- * @LastEditTime: 2025-12-18 19:18:03
+ * @LastEditTime: 2025-12-18 19:24:06
  * @Description:
  *
  * Copyright (c) 2025 by 无序熵增, All Rights Reserved.
@@ -15,6 +15,7 @@
 [![English](https://img.shields.io/badge/English-blue?style=for-the-badge)](readme.en.md)
 
 </div>
+
 # P1DUINO —— Arduino 外形的 P8X32A 开发板
 
 ![P1DUINO 开发板](picture/front.png)
